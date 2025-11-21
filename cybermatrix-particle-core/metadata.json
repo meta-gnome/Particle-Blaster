@@ -1,0 +1,5 @@
+{
+  "name": "CyberMatrix Particle Core",
+  "description": "An interactive cyberpunk particle system that transforms images into a reactive dot-matrix display.",
+  "requestFramePermissions": []
+}
